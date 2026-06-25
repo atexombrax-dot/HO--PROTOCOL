@@ -1,0 +1,9 @@
+Frontend Pi login
+   ↓
+POST /api/pi-auth
+   ↓
+authController
+   ↓
+piService (Pi API verify)
+   ↓
+Retour utilisateur validé
