@@ -1,202 +1,132 @@
-# HO--PROTOCOL
-HOÏ-PROTOCOL est un protocole numérique panafricain conçu pour soutenir un écosystème d’échanges, d’innovation et de développement durable. Il s’appuie sur le token HOÏ, des applications décentralisées, un wallet sécurisé et une gouvernance participative afin de connecter les communautés, les entreprises et les projets à impact.
-Initial repository Licence
-Présentation
-Vision
-Architecture
-Whitepaper
-Tokenomics
-Wallet
-Dashboard
-Application Mobile
-Roadmap
-SécuritLicence
-HOI-PROTOCOL/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── docs/
-│   ├── whitepaper.md
-│   ├── tokenomics.md
-│   ├── roadmap.md
-│
-├── smart-contract/
-│   ├── soroban/
-│   └── pi-network/
-│
-├── wallet/
-│   ├── mobile/
-│   └── web/
-│
-├── dashboard/
-│
-├── app/
-│
-├── branding/
-│   ├── logo/
-│   └── media/
-│
-├── governance/
-│
-└── security/
-Create HOI project architecture
-docs/whitepaper.md
-HOÏ PROTOCOL
+# HOÏ-PROTOCOL
 
-Whitepaper Officiel
+HOÏ-PROTOCOL est un protocole blockchain panafricain conçu pour catalyser l’innovation, les échanges et le développement durable. Il repose sur un token natif, une infrastructure décentralisée, une gouvernance communautaire et des applications accessibles pour mobile, desktop et web.
 
-Version 1.0
+## Présentation
 
----
+HOÏ-PROTOCOL ambitionne de créer un écosystème inclusif où les individus, les entreprises et les organisations collaborent autour de services financiers, de gouvernance, d’identité numérique et de solutions sociales. Le protocole vise à offrir un environnement sécurisé, transparent et évolutif pour les transactions et les interactions décentralisées.
 
-1. Introduction
+## Vision
 
-HOÏ Protocol est un écosystème numérique inspiré des valeurs africaines de solidarité, de partage, de confiance et de prospérité collective. Son objectif est de créer une infrastructure financière et technologique permettant aux individus, entreprises et communautés de collaborer au sein d'une économie numérique durable.
+- Favoriser l’autonomie économique dans les communautés africaines et internationales.
+- Permettre l’accès équitable aux services décentralisés, à l’identité numérique et aux instruments financiers.
+- Soutenir l’innovation durable par des applications décentralisées, des partenariats et une gouvernance transparente.
+- Construire une infrastructure résiliente qui facilite l’éducation, la collaboration et l’impact social.
 
----
+## Architecture
 
-2. Vision
+HOÏ-PROTOCOL est conçu autour de plusieurs couches principales :
 
-Construire un écosystème panafricain où la technologie blockchain favorise l'inclusion économique, la transparence et le développement du capital humain.
+- **Blockchain Layer** : réseau décentralisé pour la validation des transactions, avec intégration prévue dans l’écosystème Pi Network.
+- **Smart Contract Layer** : contrats intelligents pour la gestion des tokens, des droits de gouvernance, des récompenses et des services décentralisés.
+- **Wallet Layer** : portefeuille sécurisé pour stocker, envoyer et recevoir HOÏ, gérer des identités et interagir avec les applications.
+- **App Layer** : applications frontales pour le dashboard, le mobile, le desktop et les interfaces de gouvernance.
+- **Governance Layer** : mécanismes de vote communautaire, propositions de protocoles et allocation de trésorerie.
 
----
+### Composants clés
 
-3. Mission
+- Token natif HOÏ
+- Portefeuille multi-plateforme
+- Dashboard d’administration et de suivi
+- Application mobile pour l’accès en mobilité
+- Application desktop pour l’usage avancé
+- Modules de gouvernance et de récompenses
 
-- Faciliter les échanges numériques.
-- Encourager l'innovation africaine.
-- Soutenir les projets à impact social.
-- Créer une économie numérique accessible à tous.
+## Tokenomics
 
----
+- **Token** : HOÏ
+- **Type** : Utility et Governance
+- **Total Supply** : 10 000 000 000 HOÏ
+- **Décimales** : 7
 
-4. Valeurs Fondamentales
+### Répartition
 
-- Solidarité
-- Transparence
-- Innovation
-- Respect
-- Inclusion
-- Développement durable
+- **40% Ecosystème** : 4 000 000 000 HOÏ pour le développement des applications, partenariats, infrastructure et recherche.
+- **25% Récompenses Communautaires** : 2 500 000 000 HOÏ pour les utilisateurs, validateurs, contributeurs et initiatives communautaires.
+- **15% Réserve Stratégique** : 1 500 000 000 HOÏ pour la gestion à long terme par gouvernance.
+- **10% Équipe et Contributeurs** : 1 000 000 000 HOÏ soumis à des programmes de vesting.
+- **10% Partenariats & Adoption** : 1 000 000 000 HOÏ pour l’adoption institutionnelle et les intégrations.
 
----
+### Utilisations du token
 
-5. Le Token HOÏ
+- Paiements et frais d’application
+- Participation à la gouvernance
+- Accès aux services premium
+- Récompenses du réseau
+- Financement d’initiatives communautaires
+- Services d’identité numérique
 
-Nom : HOÏ
+## Wallet
 
-Symbole : HOÏ
+Le wallet HOÏ est prévu pour être :
 
-Type : Utility Token
+- Sécurisé : gestion des clés et authentification forte
+- Multi-actifs : support du token HOÏ et d’autres actifs compatibles
+- Facile à utiliser : interface claire pour les transferts, le staking et la gestion d’identité
+- Interopérable : connexion aux dApps et aux services de l’écosystème
 
-Fonction principale :
+## Dashboard
 
-- Paiements
-- Récompenses communautaires
-- Gouvernance future
-- Accès aux services de l'écosystème
+Le dashboard permet :
 
----
+- Le suivi des soldes et des transactions
+- La gestion des comptes et des portefeuilles
+- L’accès aux statistiques réseau et aux performances
+- La visualisation des propositions de gouvernance
+- L’administration des récompenses et des allocations
 
-6. Cas d'Utilisation
+## Application mobile
 
-Commerce
+L’application mobile HOÏ offre :
 
-Paiement de biens et services.
+- Accès aux portefeuilles en mobilité
+- Envoi et réception de HOÏ
+- Consultation des soldes et de l’historique
+- Interaction avec les propositions de gouvernance
+- Notifications et alertes de sécurité
 
-Entreprises
+## Desktop
 
-Transactions professionnelles.
+L’application desktop complète le protocole avec :
 
-Programmes sociaux
+- Une interface avancée pour les utilisateurs et les opérateurs
+- Outils de suivi en temps réel
+- Gestion de portefeuilles multi-comptes
+- Support des fonctions de gouvernance et des statistiques de réseau
+- Synchronisation avec l’application mobile
 
-Financement de projets communautaires.
+## Roadmap
 
-Éducation
+### Phase 1 : Fondations
 
-Accès à des contenus de formation.
+- Définition de l’architecture protocolaire
+- Conception du token HOÏ
+- Élaboration du modèle de gouvernance
+- Préparation de la documentation initiale
 
----
+### Phase 2 : Développement
 
-7. Écosystème DANALLODE
+- Développement du smart contract et de l’infrastructure blockchain
+- Création du wallet mobile et web
+- Mise en place du dashboard et des outils utilisateur
+- Tests de sécurité et audits initiaux
 
-Le protocole HOÏ accompagne les activités du groupe DANALLODE :
+### Phase 3 : Lancement
 
-- Construction
-- Énergie
-- Technologie
-- Agriculture
-- Hôtellerie
-- Éducation
-- Culture
-- Social
-- Mines
+- Déploiement sur réseau pilote
+- Distribution initiale et programmes de récompense
+- Ouverture de la gouvernance communautaire
+- Intégration de solutions partenaires
 
----
+### Phase 4 : Expansion
 
-8. Wallet HOÏ
+- Extension à l’écosystème Pi Network
+- Déploiement de nouvelles applications décentralisées
+- Mise en œuvre de services d’identité numérique et d’éducation
+- Croissance de la communauté et adoption internationale
 
-Le Wallet HOÏ permettra :
+## Contact
 
-- Stockage sécurisé des actifs.
-- Envoi et réception de tokens.
-- Historique des transactions.
-- Connexion aux applications de l'écosystème.
+Pour en savoir plus, contribuer ou rejoindre la communauté HOÏ-PROTOCOL, consultez la documentation du projet et les ressources disponibles dans le dépôt.
 
----
 
-9. Dashboard HOÏ
-
-Fonctionnalités :
-
-- Gestion des actifs.
-- Suivi des activités.
-- Statistiques.
-- Gouvernance communautaire.
-
----
-
-10. Sécurité
-
-- Smart Contracts audités.
-- Authentification renforcée.
-- Chiffrement des données.
-- Surveillance continue.
-
----
-
-11. Feuille de Route
-
-Phase 1
-
-Création du protocole.
-
-Phase 2
-
-Développement du Wallet HOÏ.
-
-Phase 3
-
-Déploiement du Dashboard.
-
-Phase 4
-
-Applications mobiles.
-
-Phase 5
-
-Expansion panafricaine.
-
----
-
-12. Gouvernance
-
-Le projet évoluera progressivement vers une gouvernance communautaire favorisant la participation des utilisateurs.
-
----
-
-13. Conclusion
-
-HOÏ Protocol ambitionne de devenir un moteur d'innovation et de développement économique fondé sur les valeurs africaines, la technologie blockchain et la coopération entre les peuples.

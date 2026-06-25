@@ -1,94 +1,66 @@
-docs/tokenomics.md
-HOÏ-PROTOCOL Tokenomics
+# HOÏ-PROTOCOL Tokenomics
 
-Overview
+## Overview
 
-HOÏ is the native utility and governance token of the HOÏ-PROTOCOL ecosystem. It facilitates transactions, community participation, ecosystem development, and access to decentralized services.
+HOÏ est le token natif utility et governance de l'écosystème HOÏ-PROTOCOL. Il facilite les transactions, la participation communautaire, le développement de l'écosystème et l'accès aux services décentralisés.
 
-Token Information
+## Token Information
 
-- Token Name: HOÏ
-- Symbol: HOÏ
-- Type: Utility & Governance Token
-- Decimals: 7
-- Blockchain: Pi Network Ecosystem (planned integration)
-- Governance: Community-driven
+- **Nom du token** : HOÏ
+- **Symbole** : HOÏ
+- **Type** : Utility & Governance Token
+- **Décimales** : 7
+- **Blockchain** : Pi Network Ecosystem (intégration prévue)
+- **Gouvernance** : Pilotée par la communauté
 
-Total Supply
+## Total Supply
 
-Total Supply: 10,000,000,000 HOÏ
+- **Offre totale** : 10 000 000 000 HOÏ
 
-No additional tokens can be created beyond the maximum supply established by the protocol governance.
+Aucun token supplémentaire ne peut être créé au-delà de cette offre maximale définie par la gouvernance du protocole.
 
-Allocation
+## Allocation
 
-Ecosystem Development
+| Catégorie | Pourcentage | Montant (HOÏ) | Objectif |
+| --- | --- | --- | --- |
+| Développement de l'écosystème | 40 % | 4 000 000 000 HOÏ | Financement des applications, de l'infrastructure, des partenariats, de la recherche et de l'expansion de l'écosystème |
+| Récompenses communautaires | 25 % | 2 500 000 000 HOÏ | Récompenses pour les utilisateurs, contributeurs, validateurs et initiatives communautaires |
+| Réserve stratégique | 15 % | 1 500 000 000 HOÏ | Réserve à long terme gérée via des mécanismes de gouvernance |
+| Équipe & contributeurs | 10 % | 1 000 000 000 HOÏ | Allocation aux fondateurs, développeurs, conseillers et contributeurs, soumise à des calendriers de vesting |
+| Partenariats & adoption | 10 % | 1 000 000 000 HOÏ | Soutien aux partenariats institutionnels et à l'adoption de l'écosystème |
 
-40%
-4,000,000,000 HOÏ
+## Utility
 
-Funding of applications, infrastructure, partnerships, research, and ecosystem expansion.
+HOÏ peut être utilisé pour :
 
-Community Rewards
+- Paiements au sein de l'écosystème
+- Vote de gouvernance
+- Accès aux services premium
+- Frais d'application
+- Récompenses de l'écosystème
+- Initiatives de financement communautaire
+- Services d'identité numérique
+- Programmes éducatifs et sociaux
 
-25%
-2,500,000,000 HOÏ
+## Gouvernance
 
-Rewards for users, contributors, validators, and community initiatives.
+Les détenteurs de HOÏ peuvent participer aux décisions de gouvernance portant sur :
 
-Strategic Reserve
+- Les mises à niveau de l'écosystème
+- L'allocation du trésor
+- Les partenariats stratégiques
+- Les propositions de développement communautaire
 
-15%
-1,500,000,000 HOÏ
+## Durabilité
 
-Long-term reserve managed through governance mechanisms.
+Le protocole privilégie une croissance durable grâce à :
 
-Team & Contributors
+- Une gestion responsable du trésor
+- La participation communautaire
+- Le financement à long terme de l'écosystème
+- Des processus de gouvernance transparents
 
-10%
-1,000,000,000 HOÏ
+## Vision
 
-Allocation for founders, developers, advisors, and contributors, subject to vesting schedules.
+HOÏ vise à devenir une infrastructure numérique soutenant l'innovation, la collaboration et le développement économique durable à travers l'Afrique et au-delà.
 
-Partnerships & Adoption
-
-10%
-1,000,000,000 HOÏ
-
-Support for institutional partnerships and ecosystem adoption.
-
-Utility
-
-HOÏ can be used for:
-
-- Payments within the ecosystem
-- Governance voting
-- Access to premium services
-- Application fees
-- Ecosystem rewards
-- Community funding initiatives
-- Digital identity services
-- Educational and social programs
-
-Governance
-
-HOÏ holders may participate in governance decisions concerning:
-
-- Ecosystem upgrades
-- Treasury allocation
-- Strategic partnerships
-- Community development proposals
-
-Sustainability
-
-The protocol prioritizes sustainable growth through:
-
-- Responsible treasury management
-- Community participation
-- Long-term ecosystem funding
-- Transparent governance processes
-
-Vision
-
-HOÏ aims to become a digital infrastructure supporting innovation,collaboration, and sustainable economic development across Africa and beyond.
-Add TOKENOMICS document
